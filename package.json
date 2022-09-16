@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "aws-cloudfront-invalidate": "^0.1.3",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "ipfs-api": "^26.1.2",
     "ipfs-mini": "^1.1.2",
     "kjua": "^0.1.2",
